@@ -4,6 +4,12 @@ Diese Repository enthält Code zur Videoreihe "Wie du deine eigne KI baust" von 
 
 https://www.youtube.com/c/startupteens/playlists
 
+## Neue Inhalte
+
+Wir haben ein neues Jupyter Notebook hinzugefügt, das zeigt, wie man generative KI mit Pollinations.AI nutzen kann:
+
+- **generative_ai_mit_pollinations.ipynb**: Lernt, wie man mit Python und Pollinations.AI Bilder generieren kann - ohne Anmeldung oder API-Schlüssel!
+
 ## Wie ladet ihr den Code runter?
 
 Ihr könnt den gesammten Code entweder über den grünen Knopf herrunterladen, oder die Repository clonen. Wie ihr das macht findet ihr hier:
